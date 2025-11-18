@@ -35,9 +35,39 @@
 ---
 
 ### 🛠️ Languages & Tools  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,nestjs,mongodb,postgres,mysql,java,cpp,python,php,git,postman,figma,github" />
-</p>
+
+<table>
+<tr>
+<td align="center"><strong>Frontend</strong></td>
+<td align="center"><strong>Backend</strong></td>
+<td align="center"><strong>Databases</strong></td>
+<td align="center"><strong>Programming Languages</strong></td>
+<td align="center"><strong>Tools / Others</strong></td>
+</tr>
+
+<tr>
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+</td>
+
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php" />
+</td>
+
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+</td>
+
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,python" />
+</td>
+
+<td align="center">
+  <img src="https://skillicons.dev/icons?i=git,postman,figma,github" />
+</td>
+</tr>
+</table>
+
 
 ---
 
@@ -64,6 +94,38 @@
 > “Code, Create, Improve — Repeat.”
 
 ---
+
+
+### 🌐 Social Media  
+
+<p align="center">
+
+  <!-- Instagram -->
+  <a href="YOUR_INSTAGRAM_LINK" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" height="45" alt="Instagram" />
+  </a>
+
+  <!-- Facebook -->
+  <a href="YOUR_FACEBOOK_LINK" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" height="45" alt="Facebook" />
+  </a>
+
+  <!-- YouTube -->
+  <a href="YOUR_YOUTUBE_LINK" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" height="45" alt="YouTube" />
+  </a>
+
+  <!-- GitHub -->
+  <a href="YOUR_GITHUB_LINK" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111425.png" height="45" alt="GitHub" />
+  </a>
+
+</p>
+
+
+
+
+
 
 <p align="center">
   🚀 Thanks for visiting my profile!
