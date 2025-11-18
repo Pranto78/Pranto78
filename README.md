@@ -1,6 +1,6 @@
 <!-- 🔹 Banner -->
 <p align="center">
-  <img src="https://i.ibb.co.com/6JNNNG0x/28159021-site-design-12.jpg" width="100%" alt="banner" />
+  <img src="https://github.com/Pranto78/Pranto78/blob/main/28159021_site_design_12.jpg" width="100%" alt="banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Pranto</h1>
