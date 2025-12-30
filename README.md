@@ -1,6 +1,6 @@
 <!-- 🔹 Banner -->
 <p align="center">
-  <img src="https://github.com/Pranto78/Pranto78/blob/main/28159021_site_design_12.jpg" width="100%" alt="banner" />
+  <img src="https://github.com/Pranto78/Pranto78/blob/main/Banner~_1.png" width="100%" alt="banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Pranto</h1>
@@ -83,9 +83,9 @@
 
 ---
 
-### 🏆 Achievements  
+### 🐍 Contribution Snake Animation  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pranto78&theme=onedark&no-frame=true&row=1&column=6" />
+  <img src="https://github.com/Pranto78/Pranto78/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
