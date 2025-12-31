@@ -71,20 +71,21 @@
 
 ---
 
-### 📊 GitHub Stats  
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranto78&show_icons=true&theme=react" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranto78&theme=react" height="160" />
+  <img src="./assets/github-stats.svg" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranto78&layout=compact&theme=react" height="140"/>
+  <img src="./assets/github-langs.svg" />
 </p>
+
 
 ---
 
 ### 🐍 Contribution Snake Animation  
-
+![snake gif](https://github.com/Pranto78/Pranto78/blob/output/github-snake-dark.svg)
 
 ---
 
