@@ -84,9 +84,7 @@
 ---
 
 ### 🐍 Contribution Snake Animation  
-<p align="center">
-  <img src="https://github.com/Pranto78/Pranto78/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+
 
 ---
 
