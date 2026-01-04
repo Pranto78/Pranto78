@@ -3,7 +3,9 @@
   <img src="https://github.com/Pranto78/Pranto78/blob/main/Banner~_1.png" width="100%" alt="banner" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Pranto</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Fahim+Shahriyar;" />
+</h1>
 <h3 align="center">A passionate Web Developer exploring modern technologies 🚀</h3>
 
 <!-- 🔹 Coding GIF -->
@@ -25,11 +27,12 @@
 
 ---
 
-### 🌐 Connect With Me  
-<p align="left">
-<a href="https://www.facebook.com/share/1g1agyv5cm/" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
-<a href="https://www.youtube.com/@so-free-ps" target="_blank"><img src="https://skillicons.dev/icons?i=youtube" height="40"/></a>
-<a href="mailto:fshahriyar44@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+## 🌐 Socials:
+<p align="center">
+  <a href=""><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white"/></a>
+  <a href="https://www.facebook.com/shahriyar.pranto.2025/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/></a>
+  <a href=""><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/md-fahim-shahriyar-pranto/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
