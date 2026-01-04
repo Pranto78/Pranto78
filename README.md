@@ -8,7 +8,7 @@
 
 <!-- 🔹 Coding GIF -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" height="220" alt="coding gif"/>
+  <img src="https://github.com/Pranto78/Pranto78/blob/main/pictue1.gif" height="220" alt="coding gif"/>
 </p>
 
 <p align="center"> 
