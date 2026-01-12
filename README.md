@@ -1,6 +1,6 @@
 <!-- 🔹 Banner -->
 <p align="center">
-  <img src="https://github.com/Pranto78/Pranto78/blob/main/Banner~_1.png" width="100%" alt="banner" />
+  <img src="https://github.com/Pranto78/Pranto78/blob/main/banner_3.gif" width="100%" alt="banner" />
 </p>
 
 <h1 align="center">
