@@ -76,13 +76,22 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="./assets/github-stats.svg" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="./assets/github-langs.svg" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pranto78&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranto78&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakLabel=58A6FF" width="49%" />
+
+</div>
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranto78&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" width="50%" />
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranto78&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FF6B6B&area=true&hide_border=true" width="100%"/>
+</div>
 
 
 ---
